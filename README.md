@@ -1,4 +1,6 @@
-### Hi there 👋
+### Miqueias Moureira
+
+![ Estatísticas ](https://github-readme-stats.vercel.app/api?username=miqueias-moureira&show_icons=true&theme=radical)
 
 <!--
 **miqueias-moureira/miqueias-moureira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
