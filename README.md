@@ -1,9 +1,9 @@
 ### Olá, eu sou [ Miqueias Moureira. ](https://github.com/miqueias-moureira)
 
 Linguagens e ferramentas :
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png =100x100)
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png =100x100)
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png =100x100)
+[image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png =100x100)
+[image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png =100x100)
+[image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png =100x100)
 
 ![ Estatísticas ](https://github-readme-stats.vercel.app/api?username=miqueias-moureira&show_icons=true&theme=radical)
 
