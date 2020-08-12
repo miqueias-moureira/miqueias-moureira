@@ -4,6 +4,8 @@
 Linguagens e ferramentas : <br/>
 <img src="https://raw.githubusercontent.com/miqueias-moureira/miqueias-moureira/master/assets/javascript.png" width="150">
 
+[ O que estou aprendendo: ](https://www.udemy.com/user/miqueias-alaeviton-moureira/)
+
 
 ![ Estatísticas ](https://github-readme-stats.vercel.app/api?username=miqueias-moureira&show_icons=true&theme=radical)
 
