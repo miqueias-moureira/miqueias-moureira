@@ -2,7 +2,7 @@
 
 
 Linguagens e ferramentas : <br/>
-<img src="https://raw.githubusercontent.com/miqueias-moureira/miqueias-moureira/master/assets/JS.png" width="150">
+<img src="https://raw.githubusercontent.com/miqueias-moureira/miqueias-moureira/master/assets/javascript.png" width="150">
 
 
 ![ Estatísticas ](https://github-readme-stats.vercel.app/api?username=miqueias-moureira&show_icons=true&theme=radical)
