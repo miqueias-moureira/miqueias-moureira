@@ -1,14 +1,14 @@
-### Olá, eu sou [ Miqueias Moureira. ](https://github.com/miqueias-moureira)
+# Olá, eu sou [ Miquéias Alaéviton Moureira. ](https://github.com/miqueias-moureira)
 
+> Amante das tecnologias e suas "magias" 😵, desde a minha infância estou envolvido no mundo de desenvolvimento. Por hobby 💕, amo ouvir uma música, acompanhada de um bom café e, ao mesmo tempo, estar na arte de "codar", principalmente, quando há desafios 😎. Estou sempre à procura de novos desafios e aventuras 😉✌... [ Algumas aventuras que estou vivenciando. ](https://www.udemy.com/user/miqueias-alaeviton-moureira/) 
 
-Linguagens e ferramentas : <br/>
+## Linguagens : <br/>
 <img src="https://raw.githubusercontent.com/miqueias-moureira/miqueias-moureira/master/assets/javascript.png" width="150">
 
-[ O que estou aprendendo: ](https://www.udemy.com/user/miqueias-alaeviton-moureira/)
-
-
+## Estatísticas : <br/>
 ![ Estatísticas ](https://github-readme-stats.vercel.app/api?username=miqueias-moureira&show_icons=true&theme=radical)
 
+## Top linguagens : <br/>
 ![ Top Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=miqueias-moureira)
 
 <!--
