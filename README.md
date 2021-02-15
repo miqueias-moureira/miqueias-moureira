@@ -3,7 +3,7 @@
 > Amante das tecnologias e suas "magias" 😵, desde a minha infância estou envolvido no mundo de desenvolvimento. Por hobby 💕, amo ouvir uma música, acompanhada de um bom café e, ao mesmo tempo, estar na arte de "codar", principalmente, quando há desafios 😎. Estou sempre à procura de novos desafios e aventuras 😉✌... [ Algumas aventuras que estou vivenciando. ](https://www.udemy.com/user/miqueias-alaeviton-moureira/) 
 
 ## Linguagens : <br/>
-<img src="https://raw.githubusercontent.com/miqueias-moureira/miqueias-moureira/master/assets/img_js.png" width="150">
+<img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="100">
 
 ## Estatísticas : <br/>
 ![ Estatísticas ](https://github-readme-stats.vercel.app/api?username=miqueias-moureira&show_icons=true&theme=radical)
