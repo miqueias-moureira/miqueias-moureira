@@ -14,6 +14,9 @@
 ## Linguagens : <br/>
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="50">&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="50">
 
+## Frameworks : <br/>
+<img src="https://br.vuejs.org//images/logo.png" width="50">
+
 ## Estatísticas : <br/>
 ![ Estatísticas ](https://github-readme-stats.vercel.app/api?username=miqueias-moureira&show_icons=true&theme=radical)
 
